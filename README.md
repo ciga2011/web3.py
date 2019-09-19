@@ -11,6 +11,10 @@ A Python implementation of [web3.js](https://github.com/ethereum/web3.js)
 
 Read more in the [documentation on ReadTheDocs](http://web3py.readthedocs.io/). [View the change log on Github](docs/releases.rst).
 
+## Tutorial
+
+* [Programming Ethereum DApp in Python](http://xc.hubwiz.com/course/5b40462cc02e6b6a59171de4?affid=github7878)
+
 ## Developer Setup
 
 ```sh
